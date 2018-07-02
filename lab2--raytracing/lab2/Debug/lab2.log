@@ -1,0 +1,11 @@
+﻿Build started 2017/5/3 18:21:27.
+     1>Project "E:\computer graphics\lab 2 方向二\lab2\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /I"E:\computer graphics\lab 2 方向二\Animation Lab2\vectorLab\include" /I"E:\computer graphics\lab environment\opengl\glew-1.11.0\include" /I"E:\computer graphics\lab environment\opengl\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\computer graphics\lab 2 方向二\lab2\lab2\source.cpp(8): fatal error C1083: Cannot open include file: 'vector.h': No such file or directory
+     1>Done Building Project "E:\computer graphics\lab 2 方向二\lab2\lab2\lab2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.23

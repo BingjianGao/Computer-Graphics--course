@@ -1,0 +1,21 @@
+﻿Build started 2017/5/23 19:25:14.
+     1>Project "E:\computer graphics\lab 1\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /I"E:\computer graphics\lab 1\CgLab1\glm" /I"E:\computer graphics\lab 1\CgLab1" /I"E:\computer graphics\lab environment\SDL-devel-1.2.15-VC\SDL-1.2.15\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt star.cpp
+         star.cpp
+     1>e:\computer graphics\lab 1\cglab1\glm\glm\core\func_common.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>e:\computer graphics\lab 1\cglab1\glm\glm\core\func_integer.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>e:\computer graphics\lab 1\project2\project2\star.cpp(13): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>e:\computer graphics\lab 1\project2\project2\star.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\computer graphics\lab 1\project2\project2\star.cpp(73): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\computer graphics\lab 1\project2\project2\star.cpp(74): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\computer graphics\lab 1\project2\project2\star.cpp(88): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>e:\computer graphics\lab 1\project2\project2\star.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\computer graphics\lab 1\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\computer graphics\lab environment\SDL-devel-1.2.15-VC\SDL-1.2.15\lib\x86" SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\computer graphics\lab 1\Project2\Debug\Project2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\computer graphics\lab 1\Project2\Debug\Project2.lib" /MACHINE:X86 Debug\star.obj
+         Project2.vcxproj -> E:\computer graphics\lab 1\Project2\Debug\Project2.exe
+     1>Done Building Project "E:\computer graphics\lab 1\Project2\Project2\Project2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.67
